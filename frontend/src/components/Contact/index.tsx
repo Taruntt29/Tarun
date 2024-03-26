@@ -95,9 +95,9 @@ const Contact = () => {
         e.preventDefault();
         const isFormDataValid = validateFormData();
         if (isFormDataValid) {
-            const serviceId = "service_bwkw50k";
-            const templateId = "template_2bqctu9";
-            const publicKey = "PKPGLn6xb80TTb-xu";
+            const serviceId = "service_dglxnfs";
+            const templateId = "template_btt7cqv";
+            const publicKey = "FSYV8wq6DxKrJDCbP";
             const payload = {
                 sender_name: formData.name,
                 sender_email: formData.email,
