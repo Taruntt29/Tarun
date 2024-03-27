@@ -4,7 +4,7 @@ export const bio = {
     description:
         "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Taruntt29",
-    resume: "https://drive.google.com/file/d/1GafRMa-wbL-GhPqtrKJ7vtaqvpB59hBx/view?usp=drive_link",
+    resume: "https://drive.google.com/file/d/1HEA8yHNMPoo9F2ZmgnWmp0fQ6ec-JGn9/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/tarun-tiwari-a73001160/",
     twitter: "https://x.com/TarunTT29?t=dTwtN6GePiFMgJONNiFwxQ&s=09",
     insta: "https://www.instagram.com/taruntiwaritt?utm_source=qr&igsh=MWRiaHl5cm1wcnF5aA==",
